@@ -1,4 +1,6 @@
 # Curso de Inteligencia Artificial para Ingenieros
+<img src="https://github.com/carltoro/Curso_Inteligencia_Artificial_para_Ingenieros/blob/4d1c33528a7b44e66fed4272d37984528aeeff27/Images/IA_course.png">
+
 
 Este curso fue dictado a alumnos de pregrado de la carrera de Ingeniería Electrónica y Sistemas Inteligentes de la Universidad Tecnológica de Chile (versión 2022).
 
